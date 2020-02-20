@@ -1,5 +1,6 @@
 package org.erika.erikapetclinic.services.map;
 
+import org.erika.erikapetclinic.model.Pet;
 import org.erika.erikapetclinic.services.CrudService;
 
 import java.util.Set;
